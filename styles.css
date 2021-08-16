@@ -1,0 +1,60 @@
+/*
+
+  @author Suhana
+
+  Cleaning code == Done
+  Organizing code == Done
+  Property and value arranged alphabetically == Done
+
+*/
+
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  color: #4ECCA3;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  background: #4ECCA3;
+  display: block;
+  font-size: 1.5rem;
+  font-family: 'Indie Flower', cursive;
+  margin: 40px auto;
+  padding: 10px;
+}
+
+footer {
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 5%;
+  text-align: center;
+
+}
